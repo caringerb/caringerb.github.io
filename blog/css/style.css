@@ -209,3 +209,17 @@ nav {
     border-top: 1px solid #28234b;
     border-bottom: 1px solid #28234b;
 }
+
+/*  LINK STYLE  */
+
+a {
+    outline: none;
+    }
+    
+    a:link, a:visited {
+    color: #33658A;
+    }
+    
+    a:focus, a:hover {
+    text-decoration: none;
+    }
