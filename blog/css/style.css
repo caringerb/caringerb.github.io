@@ -195,6 +195,16 @@ nav a {
     color: #28234b;
 }
 
+nav a:focus, nav a:hover {
+    color: red;
+    background-color: #33658A;
+    }
+    
+    nav a:active {
+    color: red;
+    background-color: #000;
+}
+
 nav {
     border-top: 1px solid #28234b;
     border-bottom: 1px solid #28234b;
